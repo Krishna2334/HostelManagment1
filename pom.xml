@@ -8,7 +8,7 @@
     <artifactId>HostelManagementSystem</artifactId>
     <packaging>war</packaging>
     <version>1.1.1-SNAPSHOT</version>
-    <name>HostelManagementSystem Maven Webapp</name>
+    <name>HostelManagementSystem Maven Webapp wbhook</name>
     <url>http://maven.apache.org</url>
 
     <!-- ✅ Project Properties -->
